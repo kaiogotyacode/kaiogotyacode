@@ -24,10 +24,15 @@
 ### Hobbies
 
 🏐🏀  Volleyball/Basketball on day off.
+
 👨‍👩‍👧‍👧   Spend time with family and friends!
+
 ☕    Coffee Lover
+
 📺🎮  TV Shows, Movies & Games (in general), but usually with someone.
+
 🎶    A nice song is totally welcome to my ears!
+
 👨‍💻📚  Code is art. Self development is mental health. Learning is forever!
 
 
