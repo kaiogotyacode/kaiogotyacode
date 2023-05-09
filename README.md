@@ -1,7 +1,8 @@
   
-### Welcome to my GitHub profile 🖐️ (gif)
+### Welcome to my GitHub profile 🖐️ 
 
-### Stats
+
+![kaiogotyacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiogotyacode&show_icons=true&theme=dark)
 
 ### Development Tools
 <div>  
