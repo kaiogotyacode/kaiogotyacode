@@ -1,5 +1,6 @@
   
-### Hey you! I'm Kaio and welcome to my GitHub profile 🖐️ 
+### Hey you! I'm Kaio and welcome to my GitHub profile 🖐️   
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-maciel/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/kaiomaciel)
@@ -17,9 +18,6 @@
   <img height="40em" src="https://img.icons8.com/color/240/null/microsoft-sql-server.png"/>   
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" />
-                 
-
-
 </div>
 
 ### Design Tools
@@ -46,5 +44,9 @@
 👨‍💻📚  Code is art. Self development is mental health. Learning is forever!
 
 
+### Languages
 
-
+<div>  
+  <img height="40em" src="https://img.icons8.com/color/96/brazil-circular.png" alt="brazil-flag"/>  
+  <img height="40em" src="https://img.icons8.com/color/96/usa-circular.png" alt="usa-flag"/>
+</div>
