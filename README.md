@@ -7,6 +7,15 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/340952419510779912)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaio_gotya/)
 
+ℹ About me 👋
+
+Student in the programming field, immersed in the world of technology. Currently, I work as a Junior Developer and I am driven by tasks that challenge my knowledge. I continue to expand my scope of learning and share great experiences with my team partners. 📚
+
+ℹ Additional Information 
+
+Studying CS50x Course | offered by Harvard School of Engineering and Applied Sciences 🏫
+
+"Face your fears and doubts, and new worlds will open to you", Robert Kiyosaki. 🧠🌍
 
 ![kaiogotyacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiogotyacode&show_icons=true&theme=dark)
 
