@@ -28,6 +28,8 @@ Studying CS50x Course | offered by Harvard School of Engineering and Applied Sci
   <img height="40em" src="https://img.icons8.com/color/240/null/microsoft-sql-server.png"/>   
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+          
 </div>
 
 ### Design Tools
