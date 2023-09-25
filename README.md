@@ -12,7 +12,7 @@ Currently, I'm enhancing my skills in NodeJS alongside C# to broaden my knowledg
 
 ![kaiogotyacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiogotyacode&show_icons=true&theme=gruvbox&rank_icon=github)
 
-### Development Tools
+## Development Tools
 <div>  
   
   <img height="40em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -34,14 +34,14 @@ Currently, I'm enhancing my skills in NodeJS alongside C# to broaden my knowledg
   <img height="40em" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>    
 </div>
 
-### Design Tools
+## Edition Tools
 <div>
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />               
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
 </div>
 
-### Hobbies
+## Hobbies
 
 👨‍💻📚  Code is art. Self development is mental health. Learning is forever!
 
