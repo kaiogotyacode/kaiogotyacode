@@ -1,15 +1,6 @@
-  
-### <h1 align="center"> Hi! Welcome to my profile 🖐️  </h1>
+<img src="https://portfolio-kaiogotya.s3.us-east-2.amazonaws.com/github-brand.png" />
 
-<img src="https://portfolio-kaiogotya.s3.us-east-2.amazonaws.com/brand-new.png" />
-
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/KaioMaciel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-maciel/)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/kaiomaciel)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/340952419510779912)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaio_gotya/)
-
-ℹ About me 👋
+ℹ About me
 
 Student in the programming field, immersed in the world of technology. Currently, I work as a Junior Developer and I am driven by tasks that challenge my knowledge. I continue to expand my scope of learning and share great experiences with my team partners. 📚
 
@@ -19,7 +10,7 @@ Studying CS50x Course | offered by Harvard School of Engineering and Applied Sci
 
 "Face your fears and doubts, and new worlds will open to you", Robert Kiyosaki. 🧠🌍
 
-![kaiogotyacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiogotyacode&show_icons=true&theme=dark)
+![kaiogotyacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiogotyacode&show_icons=true&theme=gruvbox&rank_icon=github)
 
 ### Development Tools
 <div>  
