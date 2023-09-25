@@ -2,27 +2,36 @@
 
 ℹ About me
 
-Student in the programming field, immersed in the world of technology. Currently, I work as a Junior Developer and I am driven by tasks that challenge my knowledge. I continue to expand my scope of learning and share great experiences with my team partners. 📚
+I'm engaged Full Stack developer, actively pursuing knowledge on a daily basis to refine my expertise in various technologies, with a particular emphasis on RESTful, Dependency Injection (DI), Microservices, EFCore, and Design Patterns. I conscientiously strive to maintain a balance in my daily schedule, given the demands of both my academic pursuits and professional commitments. Consequently, I accord priority to my personal growth, including dedicated time for studies and fulfilling my responsibilities.🏫
+
+Currently, I'm enhancing my skills in NodeJS alongside C# to broaden my knowledge and keep up with market technologies. 📚
+
+"Face your fears and doubts, and new worlds will open to you", Robert Kiyosaki. 🌍🧠
 
 ℹ Additional Information 
-
-Studying CS50x Course | offered by Harvard School of Engineering and Applied Sciences 🏫
-
-"Face your fears and doubts, and new worlds will open to you", Robert Kiyosaki. 🧠🌍
 
 ![kaiogotyacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiogotyacode&show_icons=true&theme=gruvbox&rank_icon=github)
 
 ### Development Tools
 <div>  
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40em" src="https://img.icons8.com/color/240/null/microsoft-sql-server.png"/>   
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-          
+  
+  <img height="40em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img height="40em" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>   
+
+</div>
+
+<div>    
+  <img height="40em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />    
+  <img height="40em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img height="40em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img height="40em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />         
+</div>
+
+<div>   
+  <img height="40em" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
+  <img height="40em" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img height="40em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="40em" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>    
 </div>
 
 ### Design Tools
@@ -34,19 +43,13 @@ Studying CS50x Course | offered by Harvard School of Engineering and Applied Sci
 
 ### Hobbies
 
+👨‍💻📚  Code is art. Self development is mental health. Learning is forever!
+
 🏐🏀  Volleyball/Basketball on day off.
-
-🎻🎸 Every now and then I try to make some noise
-
-👨‍👩‍👧‍👧   Spend time with family and friends!
 
 ☕    Coffee Lover
 
-📺🎮  TV Shows, Movies & Games (in general), but usually with someone.
-
-🎶    A nice song is totally welcome to my ears!
-
-👨‍💻📚  Code is art. Self development is mental health. Learning is forever!
+👨‍👩‍👧‍👧   Spend time with family and friends!
 
 
 ### Languages
