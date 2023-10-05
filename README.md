@@ -8,7 +8,7 @@ I'm engaged Full Stack developer, actively pursuing knowledge on a daily basis t
 
 ℹ Additional Information 
 
-![kaiogotyacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiogotyacode&show_icons=true&theme=gruvbox&rank_icon=github)
+![kaiogotyacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiogotyacode&show_icons=true&theme=light&rank_icon=github&hide=contribs,stars)
 
 ## Development Tools
 <div>    
