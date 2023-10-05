@@ -1,4 +1,4 @@
-<img src="https://portfolio-kaiogotya.s3.us-east-2.amazonaws.com/kaio-github-brand.png" />
+<img src="https://portfolio-kaiogotya.s3.us-east-2.amazonaws.com/github_brand.png" />
 
 ℹ About me
 
