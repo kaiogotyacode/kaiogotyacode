@@ -2,9 +2,17 @@
 
 ℹ About me
 
+<div align="justify">
+  
 I'm engaged Full Stack developer, actively pursuing knowledge on a daily basis to refine my expertise in technologies, with a particular emphasis on RESTful API, Code Abstraction and Microservices according to Design Patterns. I conscientiously strive to maintain a balance in my daily schedule, given the demands of both my academic pursuits and professional commitments. Consequently, I accord priority to my personal growth, including dedicated time for studies and fulfilling my responsibilities.🏫
 
-"Face your fears and doubts, and new worlds will open to you", Robert Kiyosaki. 🌍🧠
+</div>
+
+<div align="right">  
+  
+ <i> <b> "Face your fears and doubts, and new worlds will open to you", Robert Kiyosaki.  </b> </i> 🌍🧠 
+  
+</div>
 
 ℹ Additional Information 
 
