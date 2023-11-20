@@ -3,8 +3,7 @@
 ℹ About me
 
 <div align="justify">
-  
-I'm engaged Full Stack developer, actively pursuing knowledge on a daily basis to refine my expertise in technologies, with a particular emphasis on RESTful API, Code Abstraction and Microservices according to Design Patterns. I conscientiously strive to maintain a balance in my daily schedule, given the demands of both my academic pursuits and professional commitments. Consequently, I accord priority to my personal growth, including dedicated time for studies and fulfilling my responsibilities.🏫
+As a Full Stack Developer at an enterprise software management company, I leverage my expertise to enhance the User Experience, positively impacting over a thousand clients in the São Paulo region. Since early 2022, I've been focusing on .NET Platform (C# ASP.NET) and JavaScript, with a recent emphasis on Angular for upcoming projects. I've been dedicated to software development since 2018, tackling algorithms, conducting systems analysis, and designing applications.
 
 </div>
 
@@ -29,14 +28,18 @@ I'm engaged Full Stack developer, actively pursuing knowledge on a daily basis t
 </div>
 
 <div align="center">    
-  <img height="40em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />    
-  <img height="40em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img height="40em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img height="40em" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img height="40em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />         
+  <img height="40em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />         
+  <img height="40em" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
+</div>
+
+<div align="center">      
+  <img height="40em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>   
+  <img height="40em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
 </div>
 
 <div align="center">   
-  <img height="40em" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
   <img height="40em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img height="40em" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>    
 </div>
