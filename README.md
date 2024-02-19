@@ -3,7 +3,7 @@
 ℹ About me
 
 <div align="justify">
-As a Full Stack Developer at an enterprise software management company, I leverage my expertise to enhance the User Experience, positively impacting over a thousand clients in the São Paulo region. Since early 2022, I've been focusing on .NET Platform (C# ASP.NET) and JavaScript, with a recent emphasis on Angular for upcoming projects. I've been dedicated to software development since 2018, tackling algorithms, conducting systems analysis, and designing applications.
+As a Full Stack Developer, I'm focused on enhancing User Experience, ensuring quality code and performance. Since 2022, I've been impacting positively thousands of clients in the São Paulo region. Specialized in the .NET (C#), JavaScript and SQL, with a recent emphasis on React, Python and TypeScript.
 
 </div>
 
@@ -23,31 +23,32 @@ As a Full Stack Developer at an enterprise software management company, I levera
 <hr>
 
 <div align="center">    
-  <img height="40em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img height="40em" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>   
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>   
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>   
 </div>
 
 <div align="center">    
-  <img height="40em" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img height="40em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />         
-  <img height="40em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />         
-  <img height="40em" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />         
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />         
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" /> 
 </div>
 
 <div align="center">      
-  <img height="40em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>   
-  <img height="40em" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>   
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />  
 </div>
 
 <div align="center">   
-  <img height="40em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img height="40em" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>    
+  <img height="50em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="50em" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>    
 </div>
 
 <hr> 
 
 <div align="center">
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />               
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
 </div>
