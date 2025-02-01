@@ -3,7 +3,7 @@
 ℹ About me
 
 <div align="justify">
-As a Full Stack Developer, I'm focused on enhancing User Experience, ensuring quality code and performance. Since 2022, I've been impacting positively thousands of clients in the São Paulo region. Specialized in the .NET (C#), JavaScript and SQL, with a recent emphasis on React, Python and TypeScript.
+As a Software Developer, I'm focused on enhancing customer-centric experiences, ensuring quality code and performance. Since 2018, I have been fortunate to positively impact thousands of clients in the São Paulo region. Currenttly, specialized in Python & .NET (C#) as primary back-end languages and PostgreSQL, Microsoft SQL Server, and MongoDB as databases.
 
 </div>
 
@@ -13,32 +13,22 @@ As a Full Stack Developer, I'm focused on enhancing User Experience, ensuring qu
   
 </div>
 
-ℹ Additional Information 
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kaiogotyacode&show_icons=true&theme=gruvbox&rank_icon=github&hide=contribs,stars">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiogotyacode&layout=compact&theme=gruvbox">
-</div>
-
 <hr>
 
-<div align="center">    
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>   
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>   
-</div>
+ℹ Additional Information 
 
 <div align="center">    
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />         
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />         
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" /> 
+  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>   
+  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>   
 </div>
 
-<div align="center">      
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>   
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />  
+<div align="center">
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />         
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>   
+  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />  
 </div>
 
 <div align="center">   
@@ -58,11 +48,11 @@ As a Full Stack Developer, I'm focused on enhancing User Experience, ensuring qu
 
 <div align="center">
   
-  👨‍💻📚  Code is art. Self development is mental health. Learning is forever!
+  👨‍💻📚  Code is art, self development is mental health and <b> Learning is Forever! </b>
   
-  🏐🏀  Volleyball/Basketball on day off.
+  🏐🏀💪  Sports and Healthy Activities
   
-  ☕    Coffee Lover
+  ☕ Coffee Lover (Always)
   
   👨‍👩‍👧‍👧   Spend time with family and friends!
   
