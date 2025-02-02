@@ -9,7 +9,7 @@ As a Software Developer, I'm focused on enhancing customer-centric experiences, 
 
 <div align="right">  
   
- <i> <b> "Face your fears and doubts, and new worlds will open to you", Robert Kiyosaki.  </b> </i> 🌍🧠 
+ <i> <b> "Pessoas que não podem abrir mão de algo importante nunca serão capazes de mudar nada." </b> </i> 🌍🧠 
   
 </div>
 
@@ -48,9 +48,11 @@ As a Software Developer, I'm focused on enhancing customer-centric experiences, 
 
 <div align="center">
   
-  👨‍💻📚  Code is art, self development is mental health and <b> Learning is Forever! </b>
+  👨‍💻📚  Code is art, self-development is mental health and <b> learning is forever! </b>
   
   🏐🏀💪  Sports and Healthy Activities
+
+  🕹🎮💻  Open World | LOL | MMORPG | Party Games
   
   ☕ Coffee Lover (Always)
   
