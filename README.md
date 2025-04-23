@@ -3,7 +3,15 @@
 ℹ About me
 
 <div align="justify">
-As a Software Developer, I'm focused on enhancing customer-centric experiences, ensuring quality code and performance. Since 2018, I have been fortunate to positively impact thousands of clients in the São Paulo region. Currenttly, specialized in Python & .NET (C#) as primary back-end languages and PostgreSQL, Microsoft SQL Server, and MongoDB as databases.
+  As a Software Developer, I'm focused on enhancing customer-centric experiences, ensuring quality code and performance. 
+<div>
+  
+<div> 
+  &nbsp;
+</div>
+
+<div> 
+  Since 2018, I have been fortunate to positively impact thousands of clients in the São Paulo region. Currenttly, specialized in Python & .NET (C#) as primary back-end languages and PostgreSQL, Microsoft SQL Server, and MongoDB as databases.
 </div>
 
 <div> 
@@ -11,7 +19,7 @@ As a Software Developer, I'm focused on enhancing customer-centric experiences, 
 </div>
 
 <div align="right">  
- <i> <b> "Pessoas que não podem abrir mão de algo importante nunca serão capazes de mudar nada." </b> </i> 🌍🧠   
+ <i> <b> "Driven by necessity, guided by a dream." </b> </i> 🌍🧠   
 </div>
 
 <hr>
@@ -39,30 +47,9 @@ As a Software Developer, I'm focused on enhancing customer-centric experiences, 
 
 <hr> 
 
-<div align="center">
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />               
-  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
-</div>
-
-<hr>
-
-<div align="center">
-  
-  👨‍💻📚  Code is art, self-development is mental health and <b> learning is forever! </b>
-  
-  🏐🏀💪  Sports and Healthy Activities
-
-  🕹🎮💻  Open World | LOL | MMORPG | Party Games
-  
-  ☕ Coffee Lover (Always)
-  
-  👨‍👩‍👧‍👧   Spend time with family and friends!
-  
-</div>
-
-
 <div align="center">  
   <img height="100em" src="https://img.icons8.com/color/96/brazil-circular.png" alt="brazil-flag"/>  
   <img height="100em" src="https://img.icons8.com/color/96/usa-circular.png" alt="usa-flag"/>
 </div>
+
+
