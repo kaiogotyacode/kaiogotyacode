@@ -57,8 +57,8 @@
 
 ℹ Mastering Software Architecture Patterns
 <div align="center">
-  <img height="200em" src="https://www.pngkey.com/png/full/423-4234315_there-are-some-great-posts-here-here-and.png"/>
-  <img height="200em" src="https://sempreju.com.br/wp-content/uploads/2020/04/MVC_ADVPL.png"/>
+  <img height="200em" src="https://res.cloudinary.com/dw5vgi1w1/image/upload/v1756565385/CleanArchitecture_jdouet.jpg"/>
+  <img height="200em" src="https://res.cloudinary.com/dw5vgi1w1/image/upload/v1756565477/MVC-Architecture-800x450_k90kya.png"/>
 </div>
 
 <hr> 
