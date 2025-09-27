@@ -82,7 +82,7 @@
   E-mail: kaioreis1153@hotmail.com
 </a>
 <br>
-<a href="https://www.linkedin.com/in/kaioreis/" target="_blank">
+<a href="https://www.linkedin.com/in/kaio-maciel/" target="_blank">
   <img src="https://res.cloudinary.com/dw5vgi1w1/image/upload/v1759015271/LinkedIn_icon.svg_vtalmn.png" height="15em" style="vertical-align:middle; margin-right:5px;" />
   LinkedIn
 </a>
