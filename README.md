@@ -68,4 +68,24 @@
   <img height="100em" src="https://img.icons8.com/color/96/usa-circular.png" alt="usa-flag"/>
 </div>
 
+<hr>
+
+
+ℹ Contact me
+
+<a href="https://kaiogotyacode.github.io/whatsappCR/" target="_blank">
+  <img src="https://res.cloudinary.com/dw5vgi1w1/image/upload/v1759015268/whatsappicon_qlzxhg.png" height="15em" style="vertical-align:middle; margin-right:5px;" /> What's App
+</a>
+<br>
+<a href="mailto:kaioreis1153@hotmail.com" target="_blank">
+  <img src="https://res.cloudinary.com/dw5vgi1w1/image/upload/v1759015270/5382-outlook_102516_xoy17r.png" height="15em" style="vertical-align:middle; margin-right:5px;" />
+  E-mail: kaioreis1153@hotmail.com
+</a>
+<br>
+<a href="https://www.linkedin.com/in/kaioreis/" target="_blank">
+  <img src="https://res.cloudinary.com/dw5vgi1w1/image/upload/v1759015271/LinkedIn_icon.svg_vtalmn.png" height="15em" style="vertical-align:middle; margin-right:5px;" />
+  LinkedIn
+</a>
+
+
 
