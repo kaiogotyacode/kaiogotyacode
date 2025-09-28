@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dw5vgi1w1/image/upload/v1759014521/Kaio_rm3oii.png" />
+<img src="https://res.cloudinary.com/dw5vgi1w1/image/upload/v1759097666/Kaio_oxir7t.png" />
 
 ℹ About me
 
