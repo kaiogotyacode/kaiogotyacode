@@ -79,7 +79,7 @@
 <br>
 <a href="mailto:kaioreis1153@hotmail.com" target="_blank">
   <img src="https://res.cloudinary.com/dw5vgi1w1/image/upload/v1759015270/5382-outlook_102516_xoy17r.png" height="15em" style="vertical-align:middle; margin-right:5px;" />
-  E-mail: kaioreis1153@hotmail.com
+  E-mail: kaio.reis@krinnovation.com.br
 </a>
 <br>
 <a href="https://www.linkedin.com/in/kaio-maciel/" target="_blank">
