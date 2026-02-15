@@ -3,7 +3,7 @@
 ℹ About me
 
 <div align="justify">
-  As a Software Developer, I'm focused on enhancing customer-centric experiences, ensuring quality code and performance. 
+  Back-end specialist focused on building scalable, reliable, and maintainable systems, delivering high-quality solutions for clients across major regions in Brazil.
 <div>
   
 <div> 
@@ -11,7 +11,7 @@
 </div>
 
 <div> 
-  Since 2018, I have been fortunate to positively impact thousands of clients in the São Paulo region. Currenttly, specialized in Python & .NET (C#) as primary back-end languages and PostgreSQL, Microsoft SQL Server, and MongoDB as databases.
+  Strong experience in API design, distributed systems, and clean architecture, with a product-oriented mindset and attention to performance, security, and testability.
 </div>
 
 <div> 
@@ -19,7 +19,7 @@
 </div>
 
 <div align="right">  
- <i> <b> "Driven by necessity, guided by a dream." </b> </i> 🌍🧠   
+ <i> <b> "Everything has its time" </b> </i> 🌍🧠
 </div>
 
 <hr>
